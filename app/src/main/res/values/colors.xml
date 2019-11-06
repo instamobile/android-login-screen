@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3B5999</color>
+    <color name="colorPrimaryDark">#3B5999</color>
+    <color name="colorAccent">#3B5999</color>
+    <color name="background_color">#F9F9F9</color>
+    <color name="background_color_reverse">#161a29</color>
+<!--    <color name="facebook_button_color">#3B5999</color>-->
+    <color name="loading_overlay_color">#1A525050</color>
+</resources>
